@@ -1,0 +1,142 @@
+{
+  "E01": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  },
+  "E02": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  },
+  "E03": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  },
+  "E04": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  },
+  "E05": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  },
+  "M01": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  },
+  "M02": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  },
+  "M03": {
+    "scores": {
+      "correctness": 0.5,
+      "completeness": 0.5
+    },
+    "reasoning": ""
+  },
+  "M04": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  },
+  "M05": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  },
+  "M06": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  },
+  "M07": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  },
+  "H01": {
+    "scores": {
+      "correctness": 0.5,
+      "completeness": 0.5
+    },
+    "reasoning": ""
+  },
+  "H02": {
+    "scores": {
+      "correctness": 0.5,
+      "completeness": 0.5
+    },
+    "reasoning": ""
+  },
+  "H03": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  },
+  "H04": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  },
+  "H05": {
+    "scores": {
+      "correctness": 0.5,
+      "completeness": 0.5
+    },
+    "reasoning": ""
+  },
+  "A01": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  },
+  "A02": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  },
+  "A03": {
+    "scores": {
+      "correctness": 1.0,
+      "completeness": 1.0
+    },
+    "reasoning": "{\"correctness\": 1.0, \"completeness\": 1.0}"
+  }
+}
